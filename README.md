@@ -8,6 +8,6 @@
 [![Tailwind Badge](https://img.shields.io/badge/-tailwind-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=#06B6D4)](#)
 [![Supabase Badge](https://img.shields.io/badge/-supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=#3ECF8E)](#)
 
-### Github Stats
+<p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=albertofp&theme=tokyonight&hide_border=true"/>
 
-[![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertofp&theme=dracula)](https://github.com/albertofp/github-readme-stats)
+<p align="center"> <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofp&hide_border=true&theme=tokyonight" />
